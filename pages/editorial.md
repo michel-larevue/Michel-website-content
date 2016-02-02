@@ -2,7 +2,7 @@
 	---
 
 
-# Editorial
+# Éditorial
 
 [éditorial ± 1800 signes]
 

@@ -1,7 +1,7 @@
-	title: Auto-graphe
+	title: Auto-graphie
 	---
 
-# Auto-graphe
+# Auto-graphie
 
 Je ne suis pas de là-bas, mais c'est comme si j'y étais née, un 25 avril, quelque part sur une autoroute, entre Jaipur et Pali. Cinq jours.  
 Cinq nuits. 1200km parcourus. Une Ambassador - abri, lit, cocon - et un chauffeur sikh, pour seuls compagnons de route, fantômes d'une Inde en suspension…
